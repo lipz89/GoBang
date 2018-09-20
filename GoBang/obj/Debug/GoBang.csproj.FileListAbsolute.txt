@@ -1,0 +1,91 @@
+C:\Documents and Settings\ZhaoJie\My Documents\Visual Studio 2008\Projects\GoBang\GoBang\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ZhaoJie\My Documents\Visual Studio 2008\Projects\GoBang\GoBang\obj\Debug\Gobang.frmGame.resources
+C:\Documents and Settings\ZhaoJie\My Documents\Visual Studio 2008\Projects\GoBang\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+C:\Documents and Settings\ZhaoJie\My Documents\Visual Studio 2008\Projects\GoBang\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+C:\Documents and Settings\ZhaoJie\My Documents\Visual Studio 2008\Projects\GoBang\GoBang\obj\Debug\GoBang.Resource1.resources
+C:\Documents and Settings\ZhaoJie\My Documents\Visual Studio 2008\Projects\GoBang\GoBang\bin\Debug\GoBang.exe
+C:\Documents and Settings\ZhaoJie\My Documents\Visual Studio 2008\Projects\GoBang\GoBang\bin\Debug\GoBang.pdb
+C:\Documents and Settings\ZhaoJie\My Documents\Visual Studio 2008\Projects\GoBang\GoBang\obj\Debug\GoBang.exe
+C:\Documents and Settings\ZhaoJie\My Documents\Visual Studio 2008\Projects\GoBang\GoBang\obj\Debug\GoBang.pdb
+C:\Documents and Settings\ZhaoJie\桌面\五子棋\GoBang\obj\Debug\GoBang.exe
+C:\Documents and Settings\ZhaoJie\桌面\五子棋\GoBang\obj\Debug\GoBang.pdb
+C:\Documents and Settings\ZhaoJie\桌面\五子棋\GoBang\bin\Debug\GoBang.exe
+C:\Documents and Settings\ZhaoJie\桌面\五子棋\GoBang\bin\Debug\GoBang.pdb
+C:\Documents and Settings\ZhaoJie\桌面\五子棋\GoBang\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ZhaoJie\桌面\五子棋\GoBang\obj\Debug\Gobang.frmGame.resources
+C:\Documents and Settings\ZhaoJie\桌面\五子棋\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+C:\Documents and Settings\ZhaoJie\桌面\五子棋\GoBang\obj\Debug\GoBang.Resource1.resources
+C:\Documents and Settings\ZhaoJie\桌面\五子棋\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+C:\Documents and Settings\ZhaoJie\桌面\可执行程序\五子棋\GoBang\obj\Debug\GoBang.exe
+C:\Documents and Settings\ZhaoJie\桌面\可执行程序\五子棋\GoBang\obj\Debug\GoBang.pdb
+C:\Documents and Settings\ZhaoJie\桌面\可执行程序\五子棋\GoBang\bin\Debug\GoBang.exe
+C:\Documents and Settings\ZhaoJie\桌面\可执行程序\五子棋\GoBang\bin\Debug\GoBang.pdb
+C:\Documents and Settings\ZhaoJie\桌面\可执行程序\五子棋\GoBang\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ZhaoJie\桌面\可执行程序\五子棋\GoBang\obj\Debug\Gobang.frmGame.resources
+C:\Documents and Settings\ZhaoJie\桌面\可执行程序\五子棋\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+C:\Documents and Settings\ZhaoJie\桌面\可执行程序\五子棋\GoBang\obj\Debug\GoBang.Resource1.resources
+C:\Documents and Settings\ZhaoJie\桌面\可执行程序\五子棋\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+C:\Documents and Settings\ZhaoJie\桌面\DOTNET\五子棋\GoBang\obj\Debug\GoBang.exe
+C:\Documents and Settings\ZhaoJie\桌面\DOTNET\五子棋\GoBang\obj\Debug\GoBang.pdb
+C:\Documents and Settings\ZhaoJie\桌面\DOTNET\五子棋\GoBang\bin\Debug\GoBang.exe
+C:\Documents and Settings\ZhaoJie\桌面\DOTNET\五子棋\GoBang\bin\Debug\GoBang.pdb
+C:\Documents and Settings\ZhaoJie\桌面\DOTNET\五子棋\GoBang\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ZhaoJie\桌面\DOTNET\五子棋\GoBang\obj\Debug\Gobang.frmGame.resources
+C:\Documents and Settings\ZhaoJie\桌面\DOTNET\五子棋\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+C:\Documents and Settings\ZhaoJie\桌面\DOTNET\五子棋\GoBang\obj\Debug\GoBang.Resource1.resources
+C:\Documents and Settings\ZhaoJie\桌面\DOTNET\五子棋\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+D:\个人作品\五子棋\GoBang\obj\Debug\GoBang.exe
+D:\个人作品\五子棋\GoBang\obj\Debug\GoBang.pdb
+D:\个人作品\五子棋\GoBang\bin\Debug\GoBang.exe
+D:\个人作品\五子棋\GoBang\bin\Debug\GoBang.pdb
+D:\个人作品\五子棋\GoBang\obj\Debug\ResolveAssemblyReference.cache
+D:\个人作品\五子棋\GoBang\obj\Debug\Gobang.frmGame.resources
+D:\个人作品\五子棋\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+D:\个人作品\五子棋\GoBang\obj\Debug\GoBang.Resource1.resources
+D:\个人作品\五子棋\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+E:\xm\sdudyhard\DOTNET\GoBang\GoBang\obj\Debug\GoBang.exe
+E:\xm\sdudyhard\DOTNET\GoBang\GoBang\obj\Debug\GoBang.pdb
+E:\xm\sdudyhard\DOTNET\GoBang\GoBang\bin\Debug\GoBang.exe
+E:\xm\sdudyhard\DOTNET\GoBang\GoBang\bin\Debug\GoBang.pdb
+E:\xm\sdudyhard\DOTNET\GoBang\GoBang\obj\Debug\ResolveAssemblyReference.cache
+E:\xm\sdudyhard\DOTNET\GoBang\GoBang\obj\Debug\Gobang.frmGame.resources
+E:\xm\sdudyhard\DOTNET\GoBang\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+E:\xm\sdudyhard\DOTNET\GoBang\GoBang\obj\Debug\GoBang.Resource1.resources
+E:\xm\sdudyhard\DOTNET\GoBang\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+D:\杂货铺\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.exe
+D:\杂货铺\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.pdb
+D:\杂货铺\项目资料\DOTNET\GoBang\GoBang\bin\Debug\GoBang.exe
+D:\杂货铺\项目资料\DOTNET\GoBang\GoBang\bin\Debug\GoBang.pdb
+D:\杂货铺\项目资料\DOTNET\GoBang\GoBang\obj\Debug\ResolveAssemblyReference.cache
+D:\杂货铺\项目资料\DOTNET\GoBang\GoBang\obj\Debug\Gobang.frmGame.resources
+D:\杂货铺\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+D:\杂货铺\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.Resource1.resources
+D:\杂货铺\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+D:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.exe
+D:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.pdb
+D:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\ResolveAssemblyReference.cache
+D:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\Gobang.frmGame.resources
+D:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+D:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.Resource1.resources
+D:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+D:\项目资料\DOTNET\GoBang\GoBang\bin\Debug\GoBang.exe
+D:\项目资料\DOTNET\GoBang\GoBang\bin\Debug\GoBang.pdb
+E:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.exe
+E:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.pdb
+E:\项目资料\DOTNET\GoBang\GoBang\bin\Debug\GoBang.exe
+E:\项目资料\DOTNET\GoBang\GoBang\bin\Debug\GoBang.pdb
+E:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\ResolveAssemblyReference.cache
+E:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.frmGame.resources
+E:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+E:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GoBang.Resource1.resources
+E:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\项目资料\DOTNET\GoBang\GoBang\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\LIPZ\Desktop\GoBang\GoBang\obj\Debug\GoBang.exe
+C:\Users\LIPZ\Desktop\GoBang\GoBang\obj\Debug\GoBang.pdb
+C:\Users\LIPZ\Desktop\GoBang\GoBang\bin\Debug\GoBang.exe
+C:\Users\LIPZ\Desktop\GoBang\GoBang\bin\Debug\GoBang.pdb
+C:\Users\LIPZ\Desktop\GoBang\GoBang\obj\Debug\GoBang.csprojResolveAssemblyReference.cache
+C:\Users\LIPZ\Desktop\GoBang\GoBang\obj\Debug\GoBang.frmGame.resources
+C:\Users\LIPZ\Desktop\GoBang\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+C:\Users\LIPZ\Desktop\GoBang\GoBang\obj\Debug\GoBang.Resource1.resources
+C:\Users\LIPZ\Desktop\GoBang\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
